@@ -72,4 +72,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For any questions or inquiries, please contact Ruba Alhasan (mailto:eng.rubaal7asan@gmail.com) .
+For any questions or inquiries, please contact eng.rubaal7asan@gmail.com .
